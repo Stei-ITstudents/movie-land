@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-app2/static/css/main.5c989ce7.css",
-    "main.js": "/react-app2/static/js/main.2cc3739d.js",
-    "static/js/488.e3d20ae0.chunk.js": "/react-app2/static/js/488.e3d20ae0.chunk.js",
-    "index.html": "/react-app2/index.html",
-    "static/media/search.svg": "/react-app2/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
-    "main.5c989ce7.css.map": "/react-app2/static/css/main.5c989ce7.css.map",
-    "main.2cc3739d.js.map": "/react-app2/static/js/main.2cc3739d.js.map",
-    "488.e3d20ae0.chunk.js.map": "/react-app2/static/js/488.e3d20ae0.chunk.js.map"
+    "main.css": "/movie-land/static/css/main.5c989ce7.css",
+    "main.js": "/movie-land/static/js/main.f9e6da42.js",
+    "static/js/488.12711d69.chunk.js": "/movie-land/static/js/488.12711d69.chunk.js",
+    "index.html": "/movie-land/index.html",
+    "static/media/search.svg": "/movie-land/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.5c989ce7.css.map": "/movie-land/static/css/main.5c989ce7.css.map",
+    "main.f9e6da42.js.map": "/movie-land/static/js/main.f9e6da42.js.map",
+    "488.12711d69.chunk.js.map": "/movie-land/static/js/488.12711d69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c989ce7.css",
-    "static/js/main.2cc3739d.js"
+    "static/js/main.f9e6da42.js"
   ]
 }
